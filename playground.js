@@ -1,4 +1,3 @@
-let Nickname = Panucci;
-let surname = Yakubu;
-
-let collaborator = ibrahim;
+let Nickname = "Panucci";
+let surname = "Yakubu";
+let collaborator = "ibrahim'
