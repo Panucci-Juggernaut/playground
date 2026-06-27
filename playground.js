@@ -1,1 +1,2 @@
-let name = Panucci;
+let Nickname = Panucci;
+let surname = Yakubu;
